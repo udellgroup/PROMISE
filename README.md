@@ -13,7 +13,7 @@ We plan to create a version of PROMISE that is easy for practitioners to use in 
 You may have to use the command `data_fixes.sh ./data` to fix some issues in the higgs, susy, and webspam datasets.
 To use the yelp dataset in the showcase experiments , please visit [https://www.yelp.com/dataset](https://www.yelp.com/dataset) and preprocess the dataset using `yelp_preprocessing.py`.
 
-2. Remove the folders `performance_results`, `suboptimality_results`, `showcase_results`, `streaming_results`, `sensitivity_results`, `spectra_results`, and `regularity results`.
+2. Remove the folders `performance_results`, `suboptimality_results`, `showcase_results`, `streaming_results`, `sensitivity_results`, `spectra_results`, and `regularity_results`.
 
 After completing the preliminary steps, we can run shell scripts (`.sh`) in the `config` folder and notebooks (`.ipynb`) in the `plotting` folder to generate the plots.
 
